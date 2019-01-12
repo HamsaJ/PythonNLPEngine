@@ -3,6 +3,7 @@ appnope==0.1.0
 astroid==2.1.0
 backcall==0.1.0
 beautifulsoup4==4.7.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz
 bleach==3.0.2
 blinker==1.4
 cachetools==3.0.0
