@@ -1,3 +1,2 @@
 from server import server
-
-# server.run(debug=True)
+server.run(debug=True)

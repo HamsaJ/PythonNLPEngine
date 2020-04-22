@@ -1,0 +1,32 @@
+Å´transitions⁄ä[
+  {
+    "clas":0,
+    "move":1,
+    "label":"ANIMAL",
+    "name":"B-ANIMAL"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"ANIMAL",
+    "name":"I-ANIMAL"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"ANIMAL",
+    "name":"L-ANIMAL"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"ANIMAL",
+    "name":"U-ANIMAL"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]

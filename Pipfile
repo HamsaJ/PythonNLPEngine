@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+aiofiles = "==0.4.0"
+appnope = "==0.1.0"
+astroid = "==2.1.0"
+backcall = "==0.1.0"
+beautifulsoup4 = "==4.7.1"
+
+[requires]
+python_version = "2.7"
