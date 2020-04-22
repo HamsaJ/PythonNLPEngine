@@ -28,7 +28,7 @@ TRAIN_DATA = [
 @plac.annotations(
     model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
     model_type=("Model name. Defaults to blank 'en' model.", "option", "t", str),
-    output_dir=("Optional output directory", "option", "o", Path)
+    output_dir=("Optional output directory", "option", "o", Path),
 )
 def main(model=None, model_type=None, output_dir=None):
     """Load the model, set up the pipeline and train the entity recognizer."""

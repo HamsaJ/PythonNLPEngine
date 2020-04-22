@@ -1,8 +1,10 @@
 from spacy.tokenizer import Tokenizer
 
+
 def num_of_tokens(nlp, text):
     tokenizer = Tokenizer(nlp.vocab)
     return len(tokenizer(text))
+
 
 def num_of_sentences(nlp):
     sentence_list = []
